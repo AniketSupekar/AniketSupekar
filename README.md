@@ -1,4 +1,4 @@
-<img src="Linkdin banner.png" width="1050" height="300">
+<img src="Linkdin banner.png" width="900" height="300">
 
 
 - 👋 Hi, I’m @AniketSupekar
