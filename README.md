@@ -1,4 +1,4 @@
-<img src="img_girl.jpg" width="500" height="600">
+<img src="Linkdin Banner.png" width="300" height="1050">
 
 - 👋 Hi, I’m @AniketSupekar
 - 👀 I’m interested in collaborating and developing new projects
