@@ -8,7 +8,7 @@
 <a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 <a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 [![BMC Badge](https://img.shields.io/badge/-BuyMeCoffee-FFDD00?style=plastic-square&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/codingpotter)](https://www.buymeacoffee.com/codingpotter)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
+![Visitor Badge]([https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7](https://github.com/AniketSupekar/AniketSupekar/graphs/traffic))
 
 - 👋 Hi, I’m @AniketSupekar
 - 👀 I’m interested in collaborating and developing new projects
