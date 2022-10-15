@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on native react development
 - 📫 How to reach me aniketsupekar2003@gmail.com
 
+https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg
 
