@@ -1,8 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="Aniket Sup.mp4" type="video/mp4">
-  <source src="Aniket Sup.mp4" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+<img src="img_girl.jpg" width="500" height="600">
 
 - 👋 Hi, I’m @AniketSupekar
 - 👀 I’m interested in collaborating and developing new projects
