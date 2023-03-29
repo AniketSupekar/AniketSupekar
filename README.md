@@ -14,9 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AniketSupekar&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSupekar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet...
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/AniketSupekar18)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote...
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
