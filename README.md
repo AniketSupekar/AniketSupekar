@@ -1,7 +1,7 @@
 <img src="Linkdin banner.png" width="1000" height="250">
 
 # 💫 About Me:
-👋 Hi, I’m @AniketSupekar✨.<br>🌱 I’m currently in my undergraduation course of B.Tech.<br>🤝 I’m looking for help with nextjs and threejs<br>🌱 I’m currently learning full stack development with blender<br>⚡ Fun fact - I love calisthenics 🤌.
+👋 Hi, I’m @AniketSupekar✨.<br>🌱 I’m currently in my undergraduation course of B.Tech...<br>🤝 I’m looking for help with nextjs and threejs.<br>🌱 I’m currently learning full stack development with blender<br>⚡ Fun fact - I love calisthenics 🤌.
 
 
 ## 🌐 Socials:
