@@ -1,7 +1,7 @@
 <img src="Linkdin banner.png" width="1000" height="250">
 
 # 💫 About Me:
-👋 Hi, I’m @AniketSupekar...✨<br>
+👋 Hi, I’m @AniketSupekar✨<br>
 
 
 ## 🌐 Socials:
