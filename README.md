@@ -17,7 +17,10 @@ If you’d like to contribute : https://github.com/AniketSupekar/nursery_app.git
 
 
 ## 📫 Connect here :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-supekar-222b71225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketsupekar2003@gmail.com) 
+
+    📧 Email: aniketsupekar2003@gmail.com
+    💼 LinkedIn: [AniketSupekar](https://www.linkedin.com/in/aniket-supekar-222b71225/)
+
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AniketSupekar&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
