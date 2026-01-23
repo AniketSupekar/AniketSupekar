@@ -1,19 +1,25 @@
+## Hi, I’m Aniket Supekar 👋 
+I’m a backend-focused full stack developer building scalable, real-world software systems. I turn manual, error-prone business workflows into clean, automated, and trackable platforms.<br>
 
-👋 Hi, I’m @AniketSupekar<br>
+## 📌 Current Focus :
+  • Building a supply chain automation platform for nurseries.<br>
+  • Designing scalable backend architectures.<br>
+  • Learning system design concepts and DevOps workflows.<br>
+  • Improving deployment and CI/CD pipelines.<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AniketSupekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AniketSupekar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSupekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🤝 Open to Collaboration
+I’m actively working on a production-grade supply chain management system and open to collaboration.<br>
+If you’d like to contribute : https://github.com/AniketSupekar/nursery_app.git <br>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=AniketSupekar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  • Fork the repository.<br>
+  • Create a clean, well-documented PR.<br>
+  • Focus on readability, performance, and maintainability.<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AniketSupekar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AniketSupekar&icon=6&color=0)](https://visitcount.itsvg.in)
+## 📫 Connect here :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-supekar-222b71225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketsupekar2003@gmail.com) 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/https://www.buymeacoffee.com/aniketsupekar) 
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AniketSupekar&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AniketSupekar&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSupekar&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
