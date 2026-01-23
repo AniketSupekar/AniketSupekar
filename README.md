@@ -18,9 +18,8 @@ If you’d like to contribute : https://github.com/AniketSupekar/nursery_app.git
 
 ## 📫 Connect here :
 
-    📧 Email: aniketsupekar2003@gmail.com
-    💼 LinkedIn: [AniketSupekar](https://www.linkedin.com/in/aniket-supekar-222b71225/)
-    [gitlab homepage](https://about.gitlab.com/)
+  📧 Email: aniketsupekar2003@gmail.com<br>
+  💼 LinkedIn: [AniketSupekar](https://www.linkedin.com/in/aniket-supekar-222b71225/)
 
 
 # GitHub Stats:
