@@ -22,7 +22,4 @@ If you’d like to contribute : https://github.com/AniketSupekar/nursery_app.git
   💼 LinkedIn: [AniketSupekar](https://www.linkedin.com/in/aniket-supekar-222b71225/)
 
 
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=AniketSupekar&theme=codeSTACKr&hide_border=false)<br/>
-
 Thank you for visiting my profile. Feel free to connect or collaborate.
