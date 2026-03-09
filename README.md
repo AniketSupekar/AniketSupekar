@@ -7,14 +7,22 @@ I’m a backend-focused full stack developer building scalable, real-world softw
   • Learning system design concepts and DevOps workflows.<br>
   • Improving deployment and CI/CD pipelines.<br>
 
-## 🤝 Open to Collaboration
-I’m actively working on a production-grade supply chain management system and open to collaboration.<br>
-If you’d like to contribute : https://github.com/AniketSupekar/nursery_app.git <br>
+  ## 🤝 Open to Collaboration
 
+I’m currently working on real-world software systems and open to meaningful collaboration.
+
+**Nursery Supply Chain Automation Platform :**
+A system designed to streamline nursery operations including order management, inventory tracking, and dispatch workflows.
+Repo: https://github.com/AniketSupekar/nursery_app
+
+**Dairy Business Automation Platform :**
+A platform built to simplify and automate dairy business operations such as daily delivery tracking, customer subscriptions, billing, and route management.
+Repo: https://github.com/AniketSupekar/dairy-app
+
+#### How to Contribute
   • Fork the repository.<br>
   • Create a clean, well-documented PR.<br>
   • Focus on readability, performance, and maintainability.<br>
-
 
 ## 📫 Connect here :
 
