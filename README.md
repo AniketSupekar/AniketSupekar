@@ -2,7 +2,6 @@
 I’m a backend-focused full stack developer building scalable, real-world software systems. I turn manual, error-prone business workflows into clean, automated, and trackable platforms.<br>
 
 ## 🔍 Currently Exploring :
-  • Building a supply chain automation platform for nurseries.<br>
   • Designing scalable backend architectures.<br>
   • Learning system design concepts and DevOps workflows.<br>
   • Improving deployment and CI/CD pipelines.<br>
