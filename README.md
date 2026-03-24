@@ -29,4 +29,4 @@ Repo: https://github.com/AniketSupekar/dairy-app
   💼 LinkedIn: [AniketSupekar](https://www.linkedin.com/in/aniket-supekar-222b71225/)
 
 
-Thank you for visiting my profile. Feel free to connect or collaborate.
+Thank you for visiting my profile. Feel free to connect or collaborate...
