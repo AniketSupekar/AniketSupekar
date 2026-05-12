@@ -11,11 +11,11 @@ I’m a backend-focused full stack developer building scalable, real-world softw
 I’m currently working on real-world software systems and open to meaningful collaboration.
 
 **Udyog : Business Operations Management Platform :**
-A mobile-first SaaS application that helps Indian small businesses manage orders, track deliveries, record payments, and send WhatsApp invoices with UPI payment links. Built to scale across multiple business types..<br>
+A mobile-first SaaS application that helps Indian small businesses manage orders, track deliveries, record payments, and send WhatsApp invoices with UPI payment links. Built to scale across multiple business types.
 Repo: https://github.com/AniketSupekar/udyog
 
 **DairyFlow : Dairy Operations Platform :**
-A multi-tenant SaaS application that digitizes the complete workflow of small to medium dairy businesses in India. Covers lane management, daily deliveries, PDF billing, payments, outstanding tracking, WhatsApp bill sharing with UPI payment links, and a role-split delivery boy app..<br>
+A multi-tenant SaaS application that digitizes the complete workflow of small to medium dairy businesses in India. Covers lane management, daily deliveries, PDF billing, payments, outstanding tracking, WhatsApp bill sharing with UPI payment links, and a role-split delivery boy app.
 Repo: https://github.com/AniketSupekar/dairyflow
 
 #### How to Contribute
