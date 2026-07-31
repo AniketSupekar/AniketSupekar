@@ -14,6 +14,10 @@ I’m currently working on real-world software systems and open to meaningful co
 A mobile-first SaaS application that helps Indian small businesses manage orders, track deliveries, record payments, and send WhatsApp invoices with UPI payment links. Built to scale across multiple business types.
 Repo: https://github.com/AniketSupekar/udyog
 
+**Cartstep : Local Business Storefront Platform :**
+A multi-tenant SaaS application that gives local businesses, restaurants, cafes, bakeries, boutiques, and more, their own branded online ordering page with zero commission on sales. Covers self-service shop signup, order and product management, and store branding. Built mobile-first to scale across any local business type.
+Repo: https://github.com/AniketSupekar/cartstep
+
 **DairyFlow : Dairy Operations Platform :**
 A multi-tenant SaaS application that digitizes the complete workflow of small to medium dairy businesses in India. Covers lane management, daily deliveries, PDF billing, payments, outstanding tracking, WhatsApp bill sharing with UPI payment links, and a role-split delivery boy app.
 Repo: https://github.com/AniketSupekar/dairyflow
